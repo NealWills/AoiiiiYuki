@@ -1,31 +1,32 @@
+
 # Aoi Yuki - Personal Homepage
 
-一个酷炫风格的静态个人主页项目。
+A stylish static personal homepage project.
 
 ## Preview
 
-- 主页名称：Aoi Yuki
-- 技术栈：HTML + CSS + JavaScript
-- 风格：星空背景、玻璃拟态、动态打字效果、鼠标聚光
+- Homepage Name: Aoi Yuki
+- Tech Stack: HTML + CSS + JavaScript
+- Style: Starry sky background, glassmorphism, dynamic typing effect, mouse spotlight
 
 ## Features
 
-- 响应式布局，适配桌面与移动端
-- Hero 首屏 + About + Skills + Contact 模块
-- 星空 Canvas 动画背景
-- 滚动显现动画与打字机文本动画
+- Responsive layout for desktop and mobile
+- Hero section + About + Skills + Contact modules
+- Starry canvas animation background
+- Scroll reveal animation and typewriter text effect
 
 ## Getting Started
 
-1. 克隆仓库：
+1. Clone the repository:
    ```bash
    git clone git@github.com:NealWills/AoiiiiYuki.git
    ```
-2. 进入目录：
+2. Enter the directory:
    ```bash
    cd AoiiiiYuki
    ```
-3. 直接打开 `index.html` 即可预览。
+3. Open `index.html` directly to preview.
 
 ## Project Structure
 
